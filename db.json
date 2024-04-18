@@ -1,0 +1,9 @@
+{
+  "cafes": [
+      {"id": "1", "name": "Cafe Lilou", "location": "Manama, Bahrain", "coordinates": {"lat": 26.23792, "lon": 50.5832}, "rating": "4.7"},
+      {"id": "2", "name": "Dome Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2165, "lon": 50.5836}, "rating": "4.3"},
+      {"id": "3", "name": "Cafe Italia", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2436, "lon": 50.586}, "rating": "4.5"},
+      {"id": "4", "name": "Darseen Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2345, "lon": 50.5475}, "rating": "4.2"},
+      {"id": "5", "name": "Columbus Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2304, "lon": 50.5704}, "rating": "4.0"}
+  ]
+}
