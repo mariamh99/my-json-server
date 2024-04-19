@@ -1,9 +1,9 @@
 {
   "cafes": [
-      {"id": "1", "name": "Cafe Lilou", "location": "Manama, Bahrain", "coordinates": {"lat": 26.23792, "lon": 50.5832}, "rating": "4.7"},
-      {"id": "2", "name": "Dome Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2165, "lon": 50.5836}, "rating": "4.3"},
-      {"id": "3", "name": "Cafe Italia", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2436, "lon": 50.586}, "rating": "4.5"},
-      {"id": "4", "name": "Darseen Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2345, "lon": 50.5475}, "rating": "4.2"},
-      {"id": "5", "name": "Columbus Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2304, "lon": 50.5704}, "rating": "4.0"}
+      {"id": "1", "name": "Cafe Lilou", "location": "Manama, Bahrain", "coordinates": {"lat": 26.23792, "lon": 50.5832}, "rating": "4.7", "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/03/f4/0e/01/cafe-lilou.jpg"},
+      {"id": "2", "name": "Dome Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2165, "lon": 50.5836}, "rating": "4.3", "imageURL": "https://pbs.twimg.com/media/DM_TyVaX0AEl0t3.jpg"},
+      {"id": "3", "name": "Cafe Italia", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2436, "lon": 50.586}, "rating": "4.5", "imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/03/f3/b0/17/cafe-italia.jpg"},
+      {"id": "4", "name": "Darseen Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2345, "lon": 50.5475}, "rating": "4.2", "imageURL": "https://media-cdn.tripadvisor.com/media/photo-o/0e/88/ef/45/general-view-of-the-cafe.jpg"},
+      {"id": "5", "name": "Columbus Cafe", "location": "Manama, Bahrain", "coordinates": {"lat": 26.2304, "lon": 50.5704}, "rating": "4.0", "imageURL": "https://www.columbuscafe.com/wp-content/uploads/2020/01/homepage-who-we-are-0-733x457.jpg"}
   ]
 }
